@@ -13,17 +13,14 @@ The number notation is European:
 - 1 Wh = 3.600 J
 - 1 kWh = 3.600.000 J = 3.600 kJ = 3,6 MJ
 
-## Energy costs
-- USD per MWh (USD/MWh)
-- Cent per kWh (Cent/kWh)
-- 100 USD/MWh = 0,10 USD/kWh = 10 Cent/kWh
-
 ## Power
 - Watt (W)
 - Kilowatt (kW)
 - Horsepower (hp)
-- 1 Watt = 1 $Joule \over second$
-- 1 Kilowatt = 1000 $Joule \over second$
+- 1 W = 1 $J \over second$
+- 1 kW = 1000 $J \over second$
+- 1 kW = 1,341 hp
+- 1 hp = 0,7457 kW = 745,7 W
 
 ## Length
 - Kilometer (km)
@@ -34,3 +31,8 @@ The number notation is European:
 - Kilometers per hour (km/h)
 - Miles per hour (mph)
 - Knots (kn)
+
+## Energy costs
+- USD per MWh (USD/MWh)
+- Cent per kWh (Cent/kWh)
+- 100 USD/MWh = 0,10 USD/kWh = 10 Cent/kWh
