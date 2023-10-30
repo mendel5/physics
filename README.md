@@ -9,7 +9,9 @@ The number notation is European:
 - Joule (J)
 - Watt-hour (Wh)
 - Kilowatt-hour (kWh)
-- Calorie (kcal)
+- British thermal unit (BTU)
+- Foot-pound (ft lb)
+- Calorie (kcal), large calorie
 - 1 Wh = 3.600 J
 - 1 kWh = 3.600.000 J = 3.600 kJ = 3,6 MJ
 
@@ -28,13 +30,15 @@ The number notation is European:
 - Nautical mile (nmi)
 - Foot (ft)
 - Inch (in)
+- Yard (yd)
 
 ## Speed
 - Kilometers per hour (km/h)
 - Miles per hour (mph)
-- Knots (kn)
+- Meters pre second (m/s)
+- Knots (kn), Nautical miles (nmi) per hour
 
 ## Energy costs
-- USD per MWh (USD/MWh)
 - Cent per kWh (Cent/kWh)
-- 100 USD/MWh = 0,10 USD/kWh = 10 Cent/kWh
+- USD per MWh (USD/MWh)
+- 10 Cent/kWh = 0,10 USD/kWh = 100 USD/MWh
