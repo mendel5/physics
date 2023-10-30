@@ -26,6 +26,8 @@ The number notation is European:
 - Kilometer (km)
 - Mile (mi)
 - Nautical mile (nmi)
+- Foot (ft)
+- Inch (in)
 
 ## Speed
 - Kilometers per hour (km/h)
