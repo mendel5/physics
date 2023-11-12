@@ -9,7 +9,9 @@ The number notation is European:
 - Joule (J)
 - Watt-hour (Wh)
 - Kilowatt-hour (kWh)
-- British thermal unit (BTU)
+- British thermal unit (BTU, also Btu)
+- Mille British thermal unit (MBtu): 1.000 Btu, one thousand Btu
+- Mille Mille British thermal unit (MMBtu): 1.000.000 Btu, one million Btu
 - Foot-pound (ft lb)
 - Calorie (kcal), large calorie
 - 1 Wh = 3.600 J
@@ -42,4 +44,6 @@ The number notation is European:
 ## Energy costs
 - Cent per kWh (Cent/kWh)
 - USD per MWh (USD/MWh)
+- USD per MMBtu (USD/MMBtu): US dollar per one million british thermal units
 - 10 Cent/kWh = 0,10 USD/kWh = 100 USD/MWh
+- 10 USD/MMBtu = 3,41 Cent/kWh = 34,1 USD/MWh
