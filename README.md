@@ -14,6 +14,7 @@ The number notation is European:
 - Calorie (kcal), large calorie
 - 1 Wh = 3.600 J
 - 1 kWh = 3.600.000 J = 3.600 kJ = 3,6 MJ
+- 2000 kcal = 2,32 kWh = 8368 kJ
 
 ## Power
 - Watt (W)
